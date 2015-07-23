@@ -1,0 +1,6 @@
+osascript -e 'quit app "Sketch Beta"'
+cp -f ~/Dropbox\ \(Elevate\)/Elevate/ipad.sketch ~/Desktop/ipad\ copy.sketch
+cp -f ~/Dropbox\ \(Elevate\)/Elevate/iphone.sketch ~/Desktop/iphone\ copy.sketch
+cp -f ~/Dropbox\ \(Elevate\)/Elevate/exploration.sketch ~/Desktop/exploration\ copy.sketch
+sleep 5
+open -a Sketch\ Beta ~/Desktop/iphone\ copy.sketch
