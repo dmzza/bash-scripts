@@ -3,7 +3,8 @@ All files are copied from the home directory to avoid causing problems or clutte
 
 ## Installation
 To use these scripts, just copy each file to the home directory.
-> All instructions assume this repo has been cloned to ~/Code/bash-scripts
+> All instructions assume this repo has been cloned to `~/Code/bash-scripts`
+
 ```
 cp ~/Code/bash-scripts/.bash_aliases ~/.bash_aliases
 ... repeat for each file ...
